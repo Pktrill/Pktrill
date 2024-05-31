@@ -1,4 +1,4 @@
-<body style="background-color:red;">
+<body style="background-color:red;"></body>
 
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div> 
@@ -91,4 +91,4 @@
 
 </p> 
 
-</body>
+
