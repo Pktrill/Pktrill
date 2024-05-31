@@ -2,7 +2,7 @@
 
 <b>Hi, My name is Prince Kunga . I am a data professional.<b> 
 
- <body style="background-color:#FF0000;">
+ <body style="background-color:#FFFFFF;">
 </body>
 
 <p></p> 
