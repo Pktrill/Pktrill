@@ -1,8 +1,9 @@
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div> 
 
-<b>Hi, My name is Yamini Reddivari. I am a data professional.<b> 
+<b>Hi, My name is Prince Kunga . I am a data professional.<b> 
 
- 
+ <body style="background-color:#FF0000;">
+</body>
 
 <p></p> 
 
