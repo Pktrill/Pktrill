@@ -1,7 +1,7 @@
 <body style="background-color:red;"></body>
 
 
-<div align="center"> <h1 align="center"> Hi There! I am Graphic designer & Data Analyst 💻 </h1> </div> 
+<div align="center"> <h1 align="center"> Nice to meet you! I am Graphic designer & Data Analyst 💻 </h1> </div> 
 
 <b>Hi, My name is Prince Kunga . .<b> 
 
